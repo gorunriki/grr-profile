@@ -1,0 +1,59 @@
+
+
+ $$$$$$\   $$$$$$\   $$$$$$\
+$$  __$$\ $$  __$$\ $$  __$$\
+$$ /  $$ |$$ |  \__|$$ |  \__|
+$$ |  $$ |$$ |      $$ |
+\$$$$$$$ |$$ |      $$ |
+ \____$$ |\__|      \__|
+$$\   $$ |
+\$$$$$$  |
+ \______/
+
+Tips Menghidupkan Form Kontak:
+Agar form ini benar-benar bisa mengirimkan email ke kotak masukmu tanpa perlu bahasa pemrograman backend (PHP/Node.js), kamu bisa menggunakan layanan gratis bernama Formspree.
+
+Daftar di formspree.io.
+
+Ganti <form action="#" ...> dengan <form action="https://formspree.io/f/ID_KAMU" ...>.
+
+Selesai! Setiap ada yang mengisi form, kamu akan menerima notifikasi email.
+
+1. The Warm Minimalist (Sand & Charcoal)
+Palet ini memberikan kesan yang hangat, tenang, dan premium. Sangat cocok jika project kamu banyak berkaitan dengan desain atau branding.
+
+Background: #F9F7F2 (Off-white krem hangat) #EAE3D1 #F9F2F7
+
+Surface/Card: #FFFFFF (Putih bersih)
+
+Text Utama: #2D2926 (Charcoal gelap)
+
+Accent: #A69080 (Muted Bronze/Tan)
+
+Vibe: Mewah, organik, dan timeless.
+
+2. The Modern Sage (Soft Mint & Slate)
+Warna hijau pucat memberikan kesan segar, ramah lingkungan, dan profesional. Populer untuk developer yang ingin terlihat approachable.
+
+Background: #F2F4F2 (Sage muda yang sangat tipis)
+
+Surface/Card: #FFFFFF
+
+Text Utama: #1F2937 (Cool Gray)
+
+Accent: #708271 (Sage Green gelap)
+
+Vibe: Segar, tenang, dan modern.
+
+3. The Nordic Blue (Ice Blue & Navy)
+Jika kamu ingin terlihat lebih "Tech" namun tetap elegan, gunakan perpaduan biru es yang dingin.
+
+Background: #F4F7FA (Biru es sangat pucat)
+
+Surface/Card: #FFFFFF
+
+Text Utama: #0F172A (Navy hampir hitam)
+
+Accent: #334E68 (Slate Blue)
+
+Vibe: Bersih, terpercaya, dan sangat profesional.
